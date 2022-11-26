@@ -1,0 +1,23 @@
+#main-logo {
+    width: 55px;
+    height: 50px;
+}
+
+.navbar-main {
+    max-width: 1512px;
+    margin: 0 auto;
+}
+
+.navbar {
+    background-color: #58c346;
+    position: sticky;
+}
+
+
+
+@media only screen and (min-width: 900px) {
+    #main-logo {
+        width: 95px;
+        height: 90px;
+    }
+}
